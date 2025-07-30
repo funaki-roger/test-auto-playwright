@@ -27,6 +27,18 @@ Este projeto realiza uma automação de busca no site do Yahoo utilizando o [Pla
 
 ## ▶️ Como executar
 
+0. Iniciar seu projeto com Node.js
+   ```bash
+   npm init -y
+
+   Depois instale o Playwright:
+   ``bash
+   npm i -D playwright
+
+   Depois, instale os navegadores:
+   ``bash
+   npx playwright install
+
 1. Execute o script com o comando:
     ```bash
     npm run busca

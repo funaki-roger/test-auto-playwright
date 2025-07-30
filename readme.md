@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Teste Automático com Playwright
 
-Este projeto realiza uma automação de busca no site do Yahoo utilizando o [Playwright](https://playwright.dev/). O script simula uma digitação lenta do termo **"Pacto Soluções"**, aceita cookies se necessário, e exibe um alerta ao final da busca.
+Este projeto realiza uma automação de busca no site do Yahoo utilizando o [Playwright](https://playwright.dev/). 
 
 ## 📂 Repositório
 
@@ -33,11 +33,6 @@ Este projeto realiza uma automação de busca no site do Yahoo utilizando o [Pla
 
 2. Esse comando deve estar definido no seu package.json assim
    ```bash
-    "scripts": {
-<<<<<<< HEAD
-    "busca": "node busca.js"
-    }
-=======
-     "busca": "node busca.js"
-   }
->>>>>>> c93c4006de5dd976fd4d9ec5d65503bb3e858574
+   "scripts": {
+  "busca": "node busca.js"
+  }

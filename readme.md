@@ -34,5 +34,5 @@ Este projeto realiza uma automação de busca no site do Yahoo utilizando o [Pla
 2. Esse comando deve estar definido no seu package.json assim
    ```bash
    "scripts": {
-  "busca": "node busca.js"
-  }
+     "busca": "node busca.js"
+     }
